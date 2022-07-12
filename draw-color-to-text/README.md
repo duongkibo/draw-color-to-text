@@ -1,1 +1,0 @@
-# draw-color-to-text

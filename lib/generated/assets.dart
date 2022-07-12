@@ -28,5 +28,6 @@ class Assets {
   static const String alphabetsX = 'assets/alphabets/X.webp';
   static const String alphabetsY = 'assets/alphabets/Y.webp';
   static const String alphabetsZ = 'assets/alphabets/Z.webp';
+  static const String assetsFont2 = 'assets/font2.ttf';
 
 }
